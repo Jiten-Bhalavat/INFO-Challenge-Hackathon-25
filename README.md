@@ -17,3 +17,8 @@ The data extracted from both pathways is then verified through an AI agent syste
 
 This hybrid solution addresses the unique challenges of Capstone Official identification, particularly the detection of temporary Acting roles not captured in formal HR systems. The automated process significantly reduces the manual effort currently required while improving accuracy and providing a comprehensive audit trail for records management compliance.
 
+
+## 📽 PPT
+[View Presentation](./Team_25075.pptx)
+
+
